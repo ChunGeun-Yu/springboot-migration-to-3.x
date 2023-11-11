@@ -17,3 +17,15 @@
 * youtube: 
 
 * blog:
+
+## sql query for test
+### create table
+create table simple
+(
+id varchar,
+name varchar
+);
+
+### insert data
+insert into SIMPLE (ID, NAME) values ('1', 'banana');
+insert into SIMPLE (ID, NAME) values ('2', 'apple');
