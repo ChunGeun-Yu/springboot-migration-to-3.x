@@ -14,9 +14,9 @@
 * swagger
 
 ## guide pages
-* youtube: 
+* youtube: https://www.youtube.com/watch?v=oXKTHpjhdHQ&ab_channel=HelloWorld
 
-* blog:
+* blog: https://blog.naver.com/hello_world_study/223261750164
 
 ## sql query for test
 ### create table
