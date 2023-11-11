@@ -4,12 +4,18 @@ import com.example.springboot.migration.dto.SimpleDto;
 import com.example.springboot.migration.entity.SimpleEntity;
 import com.example.springboot.migration.mapper.SimpleMapper;
 import com.example.springboot.migration.repository.SimpleRepository;
+
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
+
+// migration
+//import javax.annotation.PostConstruct;
+//import javax.annotation.PreDestroy;
+import jakarta.annotation.PostConstruct;
+import jakarta.annotation.PreDestroy;
+
 import java.util.HashMap;
 
 @Slf4j

@@ -2,7 +2,9 @@ package com.example.springboot.migration.web;
 
 import lombok.extern.slf4j.Slf4j;
 
-import javax.servlet.*;
+// migration
+//import javax.servlet.*;
+import jakarta.servlet.*;
 import java.io.IOException;
 
 @Slf4j
